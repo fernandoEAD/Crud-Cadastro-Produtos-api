@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Wilder",
+      "price": "1000",
+      "id": 4
+    },
+    {
+      "name": "fernando elisio de araujo dantas filho",
+      "price": "1222",
+      "id": 5
+    }
+  ]
+}
